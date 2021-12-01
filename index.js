@@ -2,7 +2,7 @@ module.exports = {
     fileName: "index.js"
 }
 const command = `hello` === `e`
-class checkCmd {
+module.exports = class checkCmd {
     constructor (command) {
 if(Boolean(command)) {
     return  {
@@ -33,5 +33,3 @@ if(Boolean(command)) {
 }
     }
 }
-const cmd = new checkCmd(command)
-cmd.result().log()
