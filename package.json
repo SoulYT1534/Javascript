@@ -6,15 +6,23 @@
     "package.json": "^2.0.1",
     "quick.db": "^7.1.3"
   },
-  "name": "administrator",
+  "name": "javascript",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["java", "javascript", "classes", "constructor", "function"],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "A project used for testing some functions/constructor and classes.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoulYT1534/Javascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SoulYT1534/Javascript/issues"
+  },
+  "homepage": "https://github.com/SoulYT1534/Javascript#readme"
 }
