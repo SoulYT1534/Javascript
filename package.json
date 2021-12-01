@@ -1,6 +1,6 @@
 {
   "name": "the_javascript_package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package having some javascript functions and classes, will publish documentation soon.",
   "main": "index.js",
   "directories": {

@@ -21,7 +21,7 @@ if(Boolean(command)) {
             return console.log(Boolean(command))
            },
         get: function () {
-            return console.log(Boolean(command))
+            return Boolean(command)
     }
 }
 }
